@@ -1,9 +1,9 @@
 spring:
   datasource:
     driver-class-name: oracle.jdbc.OracleDriver
-    url: jdbc:oracle:thin:@minjung_high?TNS_ADMIN=C:/Users/user/Desktop/Wallet_minjung
-    username: admin
-    password: Ksalswjd513513!!
+    url: Adrress
+    username: name
+    password: password
 
 
   devtools:
@@ -19,8 +19,8 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username: wjdgn5959667@gmail.com
-    password: qhtlkrgdpjlegwdb
+    username: Email
+    password: Password
     properties:
       mail:
         smtp:
